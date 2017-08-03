@@ -1,4 +1,4 @@
-# Freddie-Mac-Single-Family-Loan-Level-Analysis
+# Single-Family-Mortgage-Analysis
 
 Used Numpy and Pandas module in Python to perform data collection, transformation and cleaning.
 
